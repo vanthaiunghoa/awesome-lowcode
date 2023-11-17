@@ -1,252 +1,252 @@
-# 国内低代码平台
+# Domestic low-code platform
 
-## 全栈平台
+## Full stack platform
 
-* 阿里-云凤蝶
-  * [蚂蚁杨周璇：我做前端这十多年来的感悟](https://mp.weixin.qq.com/s/GiFpswpm_N_5MlnBywRTgw)
-  * [云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/101665976)
-  * [云凤蝶中台研发提效实践](https://zhuanlan.zhihu.com/p/78425921)
-  * [中台建站的智能化探索](https://zhuanlan.zhihu.com/p/54422324)
-  * [云凤蝶如何打造媲美 sketch 的自由画布](https://zhuanlan.zhihu.com/p/92469406)
-  * [云凤蝶自由画布之道：分层模型](https://zhuanlan.zhihu.com/p/97768853)
-* 阿里-金蝉
-  * [长夜未央——企业级研发提效的下一阶段](https://zhuanlan.zhihu.com/p/66474056)
-  * [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
-  * [前端服务化——页面搭建工具的死与生](https://www.cnblogs.com/sskyy/p/6496287.html)
-* [阿里-宜搭](https://www.aliwork.com/)
-* 阿里-通用低代码基础设施
-  * [低代码引擎搭建协议规范](https://lowcode-engine.cn/lowcode) | [低代码引擎物料协议规范](https://lowcode-engine.cn/material) | [低代码引擎资产包协
-议规范](https://lowcode-engine.cn/assets)
-  * [阿里开源的低代码引擎](https://github.com/alibaba/lowcode-engine) | [官网](https://lowcode-engine.cn)
-  * [阿里低代码引擎和生态建设实战及思考](https://mp.weixin.qq.com/s/MI6MrUKKydtnSdO4xq6jwA)
-* 阿里-天马
-  * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
-* 腾讯-积木
-  * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
-  * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
-* 腾讯-lowcode
-  * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
-  * [腾讯无极低码平台](https://wujicode.cn)
-* 葡萄城-活字格
-  * [活字格企业级低代码开发平台](https://www.grapecity.com.cn/solutions/huozige)
-  * [活字格产品经理胡耀：看活字格低代码平台是如何诞生的](https://www.soft6.com/news/2021/08/24/377493.html)
-  * [驳“低代码开发取代程序员”论 为什么专业开发者也需要低代码？](https://segmentfault.com/a/1190000040842990)
-* [无远开发平台](https://wuyuan.io/)
-  * [案例](https://wuyuan.io/case)
-  * [为什么专业开发者都选择无远](https://zhuanlan.zhihu.com/p/382493959)
-* [奥哲](https://www.authine.com/)
-  * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
+* Ali-Yunfengdie
+  * [Ant Yang Zhouxuan: My thoughts on working as a front-end for more than ten years](https://mp.weixin.qq.com/s/GiFpswpm_N_5MlnBywRTgw)
+  * [Derivation and implementation of Yunfengdie visual construction](https://zhuanlan.zhihu.com/p/101665976)
+  * [Yunfengdie China R&D efficiency improvement practice](https://zhuanlan.zhihu.com/p/78425921)
+  * [Intelligent exploration of website building in China](https://zhuanlan.zhihu.com/p/54422324)
+  * [How Yunfengdie creates a free canvas comparable to Sketch](https://zhuanlan.zhihu.com/p/92469406)
+  * [Yunfengdie’s way of free canvas: layered model](https://zhuanlan.zhihu.com/p/97768853)
+* Ali-Jinchan
+  * [The night is still young—the next stage of enterprise-level R&D efficiency improvement](https://zhuanlan.zhihu.com/p/66474056)
+  * [Ten-fold performance improvement—Establishment of Web basic R&D system](https://zhuanlan.zhihu.com/p/34790596)
+  * [Front-end servitization - the death and life of page building tools](https://www.cnblogs.com/sskyy/p/6496287.html)
+* [Alibaba-Yida](https://www.aliwork.com/)
+* Alibaba-general low-code infrastructure
+  * [Low-code engine construction protocol specification](https://lowcode-engine.cn/lowcode) | [Low-code engine material protocol specification](https://lowcode-engine.cn/material) | [Low-code engine assets Bao Xie
+Specifications](https://lowcode-engine.cn/assets)
+  * [Alibaba’s open source low-code engine](https://github.com/alibaba/lowcode-engine) | [Official website](https://lowcode-engine.cn)
+  * [Alibaba low-code engine and ecological construction practice and thinking](https://mp.weixin.qq.com/s/MI6MrUKKydtnSdO4xq6jwA)
+* Ali-Tianma
+  * [How to design the construction service used by Alibaba economy—Tianma](https://zhuanlan.zhihu.com/p/137470317)
+* Tencent-Building Blocks
+  * [Building Block System v2@江元.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
+  * [Building block system, making the operation system the best](https://cloud.tencent.com/developer/article/1055079)
+* Tencent-lowcode
+  * [Tencent Cloud Development Low Code Platform](https://console.cloud.tencent.com/lowcode)
+  * [Tencent Wuji Low Code Platform](https://wujicode.cn)
+* Grape City-movable type grid
+  * [Grapecity enterprise-level low-code development platform](https://www.grapecity.com.cn/solutions/huozige)
+  * [Hu Yao, Product Manager of Movable Type Grid: See how the Movable Type Grid low-code platform was born](https://www.soft6.com/news/2021/08/24/377493.html)
+  * [Refutation of "low-code development replaces programmers" theory: Why do professional developers also need low-code? ](https://segmentfault.com/a/1190000040842990)
+* [Wuyuan Development Platform](https://wuyuan.io/)
+  * [Case](https://wuyuan.io/case)
+  * [Why do professional developers choose Wuyuan](https://zhuanlan.zhihu.com/p/382493959)
+*[AUTHINE](https://www.authine.com/)
+  * [Tritium Cloud](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
 * [ivx](https://www.ivx.cn/index)
-  * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
-  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？](https://bbs.ivx.cn/1535)
-  * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
-  * [如何正确全面评价一个低代码平台？分析数十家国内外低代码平台得出的经验](https://devpress.csdn.net/low-code/645e124b59eeb95b5bb9b0e1.html)
-  * [对程序员最友好的低代码平台——iVX（个人开发者终身免费）](https://devpress.csdn.net/low-code/647d9cd2762a09416a07f613.html)
-  * [不能真“生成代码”的“低代码”平台，不可能真正获得程序员的认可](https://devpress.csdn.net/low-code/647dcaef762a09416a07f642.html)
+  * [About the overall technology stack implemented by the iVX platform [low-code/no-code, visual development language]](https://blog.csdn.net/troymeng/article/details/110384703)
+  * [How was iVX developed? 0What is the theoretical basis for code development? ](https://bbs.ivx.cn/1535)
+  * [What is the difference between iVX and other low-code development platforms](https://bbs.ivx.cn/mobile/2746)
+  * [How to correctly and comprehensively evaluate a low-code platform? Experience gained from analyzing dozens of domestic and foreign low-code platforms](https://devpress.csdn.net/low-code/645e124b59eeb95b5bb9b0e1.html)
+  * [The most programmer-friendly low-code platform - iVX (free for life for individual developers)](https://devpress.csdn.net/low-code/647d9cd2762a09416a07f613.html)
+  * [A "low-code" platform that cannot truly "generate code" cannot truly gain recognition from programmers](https://devpress.csdn.net/low-code/647dcaef762a09416a07f642.html)
   * [ih5](https://www.ih5.cn/)
-* [闪电数据管理](http://www.gitmen.com/lightning)
-  * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
-  * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
-* [巴克云](https://www.buckycloud.com/)
-* [轻魔方](https://team.qingmofang.cn/)
-* [数式科技](https://shushi.pro/technology)
-* [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment)
-* [轻流](https://qingflow.com/)
-* [速融云](https://www.surongyun.cn/)
-* [简道云](https://www.jiandaoyun.com/)
-* [启业云](https://www.qycloud.com.cn/)
-* [双链DaaS](https://github.com/doublechaintech/daas-start-kit)
-  * [直接通过Github Actions体验](https://github.com/doublechaintech/daas-with-github-actions)
-  * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite)
-  * [包含实时预效果的KSML操练场-开发中](http://kg2x.doublechaintech.com/view/playground)
-* [炎黄盈动](https://www.actionsoft.com.cn/)
-* [广州天翎myApps](http://www.teemlink.com/)
-* [起步科技](http://www.wex5.com/)
-* [金蝶云-苍穹](http://www.kingdee.com/products/cosmic)
-* [普元](http://primeton.com/products/ep/overview.php)
-* OpsMind
-  * [OpsMind 前端低代码开发平台--MPlatform](https://mp.weixin.qq.com/s/gTVUii6ekVZNoX-6k5UCcg)
+* [Lightning Data Management](http://www.gitmen.com/lightning)
+  * [Lightning Data Management - Codeless Data Management (Development) System](https://zhuanlan.zhihu.com/p/162964986)
+  * [lightning - code-free Admin and low-code development framework based on Django](https://github.com/git-men/lightning)
+* [BuckyCloud](https://www.buckycloud.com/)
+* [Light Rubik's Cube](https://team.qingmofang.cn/)
+* [Shushi Technology](https://shushi.pro/technology)
+* [Mingdao Cloud](https://www.mingdao.com/) supports public cloud and private deployment. Private deployment is available on Github [free community version download](https://github.com/mingdaocom/private-deployment )
+* [Qingflow](https://qingflow.com/)
+* [Surongyun](https://www.surongyun.cn/)
+* [Jiandaoyun](https://www.jiandaoyun.com/)
+* [Qiye Cloud](https://www.qycloud.com.cn/)
+* [Double chain DaaS](https://github.com/doublechaintech/daas-start-kit)
+  * [Experience directly through Github Actions](https://github.com/doublechaintech/daas-with-github-actions)
+  * [Large-scale system construction case-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite)
+  * [KSML playground including real-time pre-effects - under development](http://kg2x.doublechaintech.com/view/playground)
+* [Yanhuang Yingdong](https://www.actionsoft.com.cn/)
+* [Guangzhou Teemlink myApps](http://www.teemlink.com/)
+* [Startup Technology](http://www.wex5.com/)
+* [Kingdee Cloud-Cangqiong](http://www.kingdee.com/products/cosmic)
+* [Primeton](http://primeton.com/products/ep/overview.php)
+*OpsMind
+  * [OpsMind front-end low-code development platform--MPlatform](https://mp.weixin.qq.com/s/gTVUii6ekVZNoX-6k5UCcg)
 * [xdeer](https://www.xdeer.cn/)
-* [湘北智造](https://www.xjrsoft.com/)
-* [表单大师](https://www.jsform.com/)
-* [Zion/载航](https://functorz.com/)
+* [Xianbei Intelligent Manufacturing](https://www.xjrsoft.com/)
+* [Form Master](https://www.jsform.com/)
+* [Zion/ Carrier](https://functorz.com/)
 * [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
-* [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder)）
-* [白码](https://www.bnocode.com/product.html)
-* [捷码](https://gemcoder.com/)
-  * 支持业务系统/管理系统、可视化大屏、3D园区低码快速开发
-  * 支持离线部署
-* [明源云-天际开放平台](https://open.mingyuanyun.com)
-  * [移动平台](https://open.mingyuanyun.com/product/mpaas)
-  * [建模平台](https://open.mingyuanyun.com/product/platform)
-* [织信低代码平台](https://www.informat.cn/)
-  * [平台简介](https://www.informat.cn/promotion)
-  * [生产领域实践案例&君乐宝](https://www.informat.cn/case/jlb)
-  * [织信Informat携手低码星球探讨「企业数字化转型之路」](https://www.informat.cn/detail/248)
-  * [如何通过织信Informat快速搭建流程审批系统？](https://www.informat.cn/detail/228)
-  * [5K字深度讲解：如何用织信Informat搭建OA和进销存？](https://zhuanlan.zhihu.com/p/393588263)
-* [crudapi-增删改查接口平台](https://crudapi.cn)
-  * [无需编程，通过配置零代码生成crud增删改查RESTful API和UI](https://help.crudapi.cn/helloworld.html)
-  * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改。
-  * [后端（商业使用永久免费，无任何功能限制）](https://github.com/crudapi/crudapi-example)：Java + Jdbc实现Service，数据库支持MySQL、PostgreSQL、SQL Server和Oracle，支持二次开发和私有部署。
-  * [demo演示](https://demo.crudapi.cn/crudapi/)
-* [Gadmin企业级低代码开发平台](https://www.gadmin8.com/)
-  * [平台简介](https://www.gadmin8.com/index/about.html)
-  * [平台演示](https://demo.gadmin8.com/)
-* [象传智慧](https://www.iqka.com/docs/?engine)
+* [ILLA Cloud/Ella Cloud](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder)）
+* [White Code](https://www.bnocode.com/product.html)
+* [Gemcode](https://gemcoder.com/)
+  * Support business system/management system, visual large screen, 3D park low-code rapid development
+  *Support offline deployment
+* [Mingyuanyun-Tianji Open Platform](https://open.mingyuanyun.com)
+  * [Mobile platform](https://open.mingyuanyun.com/product/mpaas)
+  * [Modeling Platform](https://open.mingyuanyun.com/product/platform)
+* [Zhixin low-code platform](https://www.informat.cn/)
+  * [Platform Introduction](https://www.informat.cn/promotion)
+  * [Practical Cases in the Production Field&Junlebao](https://www.informat.cn/case/jlb)
+  * [Zhixin Informat joins hands with Low Code Planet to discuss the "Road to Enterprise Digital Transformation"] (https://www.informat.cn/detail/248)
+  * [How to quickly build a process approval system through Zhixin Informat? ](https://www.informat.cn/detail/228)
+  * [5K words of in-depth explanation: How to use Zhixin Informat to build OA and purchase, sale and inventory? ](https://zhuanlan.zhihu.com/p/393588263)
+* [crudapi-add, delete, modify and check interface platform](https://crudapi.cn)
+  * [No programming required, generate crud additions, deletions, modifications, and RESTful APIs and UI by configuring zero code](https://help.crudapi.cn/helloworld.html)
+  * [Front-end (open source)](https://github.com/crudapi/crudapi-admin-web): Vue + Quasar implements Web management UI, which can be modified at will.
+  * [Backend (permanently free for commercial use, without any functional restrictions)](https://github.com/crudapi/crudapi-example): Java + Jdbc implements Service, the database supports MySQL, PostgreSQL, SQL Server and Oracle, supported Secondary development and private deployment.
+  * [demo demonstration](https://demo.crudapi.cn/crudapi/)
+* [Gadmin enterprise-level low-code development platform](https://www.gadmin8.com/)
+  * [Platform Introduction](https://www.gadmin8.com/index/about.html)
+  * [Platform Demo](https://demo.gadmin8.com/)
+*[Wisdom transmitted by Xiang](https://www.iqka.com/docs/?engine)
   * [Yao](https://yaoapps.com/)
-* [引迈信息](https://www.jnpfsoft.com/)
-* [兰途科技](http://www.app8848.com)
-  * [aPass软件工厂](https://www.yuque.com/books/share/9aab5860-6301-4519-a8ae-ac1d3b9dee11)
-* [矩阵低代码](https://www.deepmatrix.cn/) : 支持私有化部署，支持离线部署，私有化部署版本可跟随主版本免费升级
-	* [平台演示](https://server.deepmatrix.cn/) : 账户：15000000000 密码： 123456
-	* [平台介绍](https://www.deepmatrix.cn/)
-	* [系统文档](https://www.yuque.com/dawei-ktv92)
-* [星云座插件式低代码](https://www.xingyunzuo.com/)
-	* 插件方式融入现有的业务系统，贯通用户权限和业务数据，赋能业务系统具备低代码开发能力
-	* 支持开发平台/项目私有化部署，开发平台与项目相互独立互补依赖
-	* [产品介绍](https://mp.weixin.qq.com/s/3PyctlBCIbOQRiCunFlR3Q)
-	* [平台演示](https://dev.xingyunzuo.com/): 用户名：18888888888 密码：888888
-	* [产品视频](https://space.bilibili.com/2045740689)
-* [瓦立应用](https://www.waliapp.cn/)
-	* 支持可视化小程序搭建、
-	* 支持各种业务系统开发（具有表单、工作流、报表设计等模块）
-	* [系统文档](https://www.yuque.com/zhonglixunni/wali)
-* [瀚码工业低代码](https://www.hancode.com/products/lcdp)
-	* 四大工业特性：工业组件（工艺流程图、工作日历、脑图、树形图、鱼骨头...）、工业模版（MES、TPM、QMS、WMS、AMES）、移动PDA支持、系统对接（PLC、CNC、注塑机、ERP...）
-	* 模型驱动、应用可与开发平台分离【重点】
-	* [系统文档](https://hancode.yuque.com/ibi3kw/qzp9ku/ywwzqm)
-	* [产品介绍](https://www.zhihu.com/question/402663485/answer/2772342587)
-* [网易数帆](https://sf.163.com/?opener=https%3A%2F%2Fsf.163.com%2F&productId=neteasecloud)
-  * [CodeWave 智能开发平台](https://sf.163.com/product/lcap?opener=https%3A%2F%2Fsf.163.com%2Fsolutionlowcap%3Fsite%3Dbanner&productId=homesite_product_qz)
-  * [文档中心](http://community.lcap.qz.163yun.com/CommunityParent/fileIndex)
-## 页面搭建
+*[Yinmai Information](https://www.jnpfsoft.com/)
+* [Lantu Technology](http://www.app8848.com)
+  * [aPass Software Factory](https://www.yuque.com/books/share/9aab5860-6301-4519-a8ae-ac1d3b9dee11)
+* [Matrix Low Code](https://www.deepmatrix.cn/): Supports privatized deployment and offline deployment. The privatized deployment version can be upgraded for free following the main version.
+	* [Platform Demo](https://server.deepmatrix.cn/): Account: 15000000000 Password: 123456
+	* [Platform Introduction](https://www.deepmatrix.cn/)
+	* [System Documentation](https://www.yuque.com/dawei-ktv92)
+* [Nebula plug-in low code](https://www.xingyunzuo.com/)
+	* Integrate the plug-in method into the existing business system, connect user permissions and business data, and empower the business system with low-code development capabilities
+	* Support privatized deployment of development platforms/projects, and development platforms and projects are independent, complementary and dependent on each other
+	* [Product Introduction](https://mp.weixin.qq.com/s/3PyctlBCIbOQRiCunFlR3Q)
+	* [Platform Demo](https://dev.xingyunzuo.com/): Username: 18888888888 Password: 888888
+	* [Product Video](https://space.bilibili.com/2045740689)
+* [Wali App](https://www.waliapp.cn/)
+	* Supports visual applet construction,
+	* Support the development of various business systems (with modules such as forms, workflows, and report design)
+	* [System Documentation](https://www.yuque.com/zhonglixunni/wali)
+* [Hancode Industrial Low Code](https://www.hancode.com/products/lcdp)
+	* Four major industrial features: industrial components (process flow chart, work calendar, brain map, tree diagram, fish bones...), industrial templates (MES, TPM, QMS, WMS, AMES), mobile PDA support, system docking (PLC, CNC, injection molding machine, ERP...)
+	* Model-driven and application can be separated from the development platform [Key Points]
+	* [System Documentation](https://hancode.yuque.com/ibi3kw/qzp9ku/ywwzqm)
+	* [Product Introduction](https://www.zhihu.com/question/402663485/answer/2772342587)
+* [Netease Shufan](https://sf.163.com/?opener=https%3A%2F%2Fsf.163.com%2F&productId=neteasecloud)
+  * [CodeWave Intelligent Development Platform](https://sf.163.com/product/lcap?opener=https%3A%2F%2Fsf.163.com%2Fsolutionlowcap%3Fsite%3Dbanner&productId=homesite_product_qz)
+  * [Document Center](http://community.lcap.qz.163yun.com/CommunityParent/fileIndex)
+## Page construction
 
-仅包含前端部分的 low code 平台
+A low code platform that only includes the front-end part
 
 * [MAKA](http://maka.im/)
-* [易企秀](https://store.eqxiu.com/)
-* [上线了](https://www.sxl.cn/)
-* [兔展](https://www.rabbitpre.com/)
-* [稿定设计](https://m.gaoding.com/)
-* [壹伴](https://yiban.io/)
-* [创客贴](https://www.chuangkit.com/)
-* [点石](https://www.h5ds.com/)
+* [Eqxiu](https://store.eqxiu.com/)
+* [Online](https://www.sxl.cn/)
+*[Rabbit Pre](https://www.rabbitpre.com/)
+*[Draft design](https://m.gaoding.com/)
+* [yiban](https://yiban.io/)
+* [Maker Post](https://www.chuangkit.com/)
+* [Dianshi](https://www.h5ds.com/)
 * [Chameleon Engine](https://github.com/hlerenow/chameleon)
-  * 高自由度的可视化编辑引擎
-* 腾讯-tmagic-editor
-  * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor)
-* 京东-通天塔
-  * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
-* [阿里-imgcook](https://imgcook.taobao.org/)
-* 转转-魔方
-  * [持续迭代的电商可视化运营页面生成系统](https://www.cnblogs.com/zhuanzhuanfe/p/10500786.html)
-* 人人贷-活动运营平台
-  * [活动运营自动化平台实践](https://zhuanlan.zhihu.com/p/68108055)
-* 美团-乐高
-  * [美团外卖前端可视化界面组装平台 —— 乐高](https://zhuanlan.zhihu.com/p/27288444)
-* [百度-h5](https://h5.bce.baidu.com/)
-  * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
-* 政采云-鲁班
-  * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
-* 携程-民宿CMS
-  * [活动专题系统搭建过程中我的一些思考](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
-* 携程-乐高
-  * [干货 | 已配置4000+页面，携程前端组件化探索之“乐高”运营系统](https://mp.weixin.qq.com/s/WDCkXEBa0bA-h_8L6cBcJw)
-* 云智慧-FlyFish
-  * [低门槛、高拓展性的低代码应用开发平台](https://www.cloudwise.ai/flyFish.html)
-* 知乎-Versatile Editor
-  * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
-* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md)
+  * High degree of freedom visual editing engine
+* Tencent-tmagic-editor
+  * [Open source page visual construction editor tmagic-editor](https://github.com/Tencent/tmagic-editor)
+* Jingdong-Babel Tower
+  * [Jingdong Mall activity page construction system-Babel Tower](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
+* [Alibaba-imgcook](https://imgcook.taobao.org/)
+* Turn-Rubik's Cube
+  * [Continuously iterative e-commerce visual operation page generation system](https://www.cnblogs.com/zhuanzhuanfe/p/10500786.html)
+* Renrendai-activity operation platform
+  * [Activity Operation Automation Platform Practice](https://zhuanlan.zhihu.com/p/68108055)
+* Meituan-Lego
+  * [Meituan Food Delivery Front-end Visual Interface Assembly Platform——Lego](https://zhuanlan.zhihu.com/p/27288444)
+* [Baidu-h5](https://h5.bce.baidu.com/)
+  * [Front-end as a service-the road to zero-cost development](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
+* Zhengcaiyun-Luban
+  * [Visual construction system of front-end engineering practice (1)](https://juejin.im/post/5d8774bff265da03ae78b2a1)
+* Ctrip-B&B CMS
+  * [Some of my thoughts during the construction of the event thematic system](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
+* Ctrip-LEGO
+  * [Dry information | 4000+ pages have been configured, Ctrip’s front-end component exploration of the “Lego” operating system] (https://mp.weixin.qq.com/s/WDCkXEBa0bA-h_8L6cBcJw)
+* Cloud wisdom-FlyFish
+  * [Low threshold, high scalability, low-code application development platform](https://www.cloudwise.ai/flyFish.html)
+* Zhihu-Versatile Editor
+  * ["Visual construction system" - from design to architecture, explore the technology and business value of the front-end field](https://zhuanlan.zhihu.com/p/164558106)
+* [Ali-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95 %B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE% A1%E5%99%A8%E3%80%8B.md)
 
 
-* [360 - 即视](https://arena.360.cn/)
+* [360 - Instant View](https://arena.360.cn/)
 * http://h5.dooring.cn/
-* https://quarkly.io/  No-code / Low-code platform for creating websites and web apps.
-* [乐搭云](https://ledayun.com.cn/)
-* [愚公](https://yugong.dawenxi.art/dashboard/#/project)
-* [榫卯（sunmao-ui）](https://sunmao-ui.com/)
-* [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) 一个可视化低代码表单编辑器，拥有多个组件、适配跨平台、多语言支持
+* https://quarkly.io/ No-code / Low-code platform for creating websites and web apps.
+* [Ledayun](https://ledayun.com.cn/)
+* [Yugong](https://yugong.dawenxi.art/dashboard/#/project)
+* [Mortise and tenon (sunmao-ui)](https://sunmao-ui.com/)
+* [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) A visual low-code form editor with multiple components, cross-platform adaptation, and multi-language support
 * [LLMStack] (https://github.com/trypromptly/LLMStack)
 
-## 店铺装修
+## Store construction
 
-非独立页面，依附于业务系统存在的页面搭建
+Non-independent pages, dependent on the page construction that exists in the business system
 
 * [shopify](https://apps.shopify.com/browse/store-design-page-builders)
-* 有赞-微页面
-* 淘宝店铺装修
+* Youzan-Micro page
+* Taobao store decoration
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
-* [阿里-飞冰](https://ice.work/)
-* [阿里-formilyjs](https://formilyjs.org/)
-  * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
+* [Alibaba-Feibing](https://ice.work/)
+* [Alibaba-formilyjs](https://formilyjs.org/)
+  * [MegaLayout - next generation Formily form layout solution](https://zhuanlan.zhihu.com/p/133906363)
   * https://github.com/alibaba/designable
-* [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
-  * [可视化在线编辑器架构设计](https://juejin.cn/post/6844903455417434119)
-* [阿里-sula](https://github.com/umijs/sula)
-* [视搭-视频可视化搭建](https://github.com/tnfe/shida)
+* [Alibaba-gaea-editor](https://github.com/ascoders/gaea-editor)
+  * [Visual online editor architecture design](https://juejin.cn/post/6844903455417434119)
+* [Ali-sula](https://github.com/umijs/sula)
+* [Shida-Video Visualization Construction](https://github.com/tnfe/shida)
 * https://github.com/alibaba/lowcode-engine
 * [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
 * [pager](https://github.com/laispace/pager)
-* [运满满-码良](https://github.com/ymm-tech/gods-pen)
-  * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
+* [Yunmanman-MaLiang](https://github.com/ymm-tech/gods-pen)
+  * [How to design a highly scalable online web page production platform](https://juejin.im/post/5bd83daee51d4524b50d23b5)
 * [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue)
 * [Vue-Layout](https://github.com/jaweii/Vue-Layout)
 * [antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor)
 * [pipeline-editor](https://github.com/page-pipepline/pipeline-editor)
-  * [【第1524期】页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
+  * [[Issue 1524] Key technical points of page visualization building tools](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
 * [panel-magic](https://ricbet.github.io/panel-magic/)
-  * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
-* [百度外卖-blocks](https://github.com/Eyot424/blocks)
-  * [百度外卖如何做到前端开发配置化](https://juejin.im/post/59536bad6fb9a06ba024d96d)
-* [Esview ](https://github.com/furioussoul/esview)
+  * [Implementation analysis of Panel-Magic, a small program visual editor based on Angular](https://zhuanlan.zhihu.com/p/101677992)
+* [Baidu Takeaway-blocks](https://github.com/Eyot424/blocks)
+  * [How to implement front-end development and configuration of Baidu Waimai](https://juejin.im/post/59536bad6fb9a06ba024d96d)
+* [Esview](https://github.com/furioussoul/esview)
 * [gen](https://github.com/genany/gen)
 * [bee gen pro](https://gocn.vip/topics/10724)
-* [百度-amis](https://github.com/baidu/amis)
-  * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组件
-  * [爱速搭](https://suda.baidu.com/)
-* [唯品会-ams](https://github.com/vipshop/ams)
+* [Baidu-amis](https://github.com/baidu/amis)
+  * [Ovine](https://github.com/CareyToboo/ovine): Completed routing and permission-related components based on amis
+  * [AISUDU](https://suda.baidu.com/)
+* [Vipshop-ams](https://github.com/vipshop/ams)
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin)
-* [鲁班 H5](https://github.com/ly525/luban-h5)
-* [华炎魔方](https://github.com/steedos/steedos-platform/)
-  * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview)
+* [Luban H5](https://github.com/ly525/luban-h5)
+* [Huayan Rubik's Cube](https://github.com/steedos/steedos-platform/)
+  * [Low-code DevOps Platform Protocol](https://low-code-protocol.com/docs/overview)
 * [h5-factory](https://github.com/yangyuji/h5-factory)
-  * [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
+  * [A simple and easy-to-use e-commerce activity page generation system](https://juejin.im/post/5cf328706fb9a07f042030f0)
 * [vision](https://github.com/tuoxiansp/vision)
 * [brick-design](https://github.com/brick-design/react-visual-editor)
-* [随心秀](https://github.com/lzuntalented/lz-h5-edit)
+* [Xixinxiu](https://github.com/lzuntalented/lz-h5-edit)
 * [yh5](https://github.com/qq15725/yh5)
 * [rxeditor](https://github.com/rxwater/rxeditor)
 * [activity-YD](https://github.com/vkcyan/activity-YD)
 * [layoutit](https://github.com/justjavac/layoutit)
 * [Ramiko](https://github.com/fantasticit/ramiko)
-  * [使用 React 构建页面可视化搭建工具](https://www.v2ex.com/t/685143)
+  * [Use React to build page visual building tool](https://www.v2ex.com/t/685143)
 * [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)
 * [sparrow-js](https://github.com/sparrow-js/sparrow)
-  * [实时输出前端代码，折腾大半年的开源项目 sparrow-js](https://www.v2ex.com/t/718505)
-* [Tefact](https://github.com/staringos/tefact): Tefact 轻量级无代码/低代码，H5、表单编辑器
-* [星搭](https://staringos.com): 星搭无代码平台，快速构建中后台、小程序
-* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero): 你不需要懂微服务，懂业务就行
-* [cube](https://github.com/fantasticit/cube)：快速搭建中后台页面
-* [react-visual-design](https://github.com/react-visual-design/react-visual-design): 基于react的h5组件搭建
+  * [Real-time output of front-end code, open source project sparrow-js that took more than half a year](https://www.v2ex.com/t/718505)
+* [Tefact](https://github.com/staringos/tefact): Tefact lightweight no-code/low-code, H5, form editor
+* [Staringos](https://staringos.com): Staringos code-free platform to quickly build middle and backend and small programs
+* [TAL Xiao Blackboard go-zero microservice framework](https://github.com/tal-tech/go-zero): You don’t need to understand microservices, just understand business
+* [cube](https://github.com/fantasticit/cube): Quickly build middle and backend pages
+* [react-visual-design](https://github.com/react-visual-design/react-visual-design): H5 component construction based on react
 * [Web Designer](https://github.com/xiaoai7904/web_designer)
 * [h5maker](https://github.com/zhengguorong/h5maker)
 * [pl-drag-template](https://github.com/livelyPeng/pl-drag-template)
-* [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器
-* [form-render](https://github.com/alibaba/form-render)：通过 JSON Schema 生成标准 Form，基于React
+* [form-generator](https://github.com/JakHuang/form-generator): Element UI form design and code generator
+* [form-render](https://github.com/alibaba/form-render): Generate standard Form through JSON Schema, based on React
 * [Vue Json Design](https://github.com/fyl080801/vjdesign)
 * [rebuild](https://gitee.com/getrebuild/rebuild)
 * [W5 SOAR](https://github.com/w5teams/w5)
 * [Moria - Lowcode development platform](https://github.com/MudOnTire/moria)
 * [nocobase](https://github.com/nocobase/nocobase)
 * [Mall-Cook](https://github.com/wangyuan389/mall-cook)
-* [全象低代码平台渲染引擎 Artery Renderer](https://github.com/quanxiang-cloud/one-for-all/tree/main/packages/artery-renderer)
+* [Quanxiang low-code platform rendering engine Artery Renderer](https://github.com/quanxiang-cloud/one-for-all/tree/main/packages/artery-renderer)
 * https://github.com/bojue/Web-Editor
-* [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV)
-* [StaringOS MtBird](https://github.com/staringos/mtbird): 开源小程序、H5、网站低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
-* [quick-boot](https://github.com/csx-bill/quick-boot): 基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统.
+* [OpenDataV - Drag-and-drop, low-code data visualization platform based on Vue3](https://github.com/AnsGoo/openDataV)
+* [StaringOS MtBird](https://github.com/staringos/mtbird): Open source small program, H5, website low-code platform, no code required, drag-and-drop operation to quickly generate page applications, data visualization access, customized business free expansion .
+* [quick-boot](https://github.com/csx-bill/quick-boot): A low-code system based on Spring Cloud 2022, Spring Boot 3, AMIS and APIJSON.
 ---
 
 * https://github.com/blocks/blocks
@@ -259,59 +259,59 @@
 * https://github.com/odoo/odoo
 * https://github.com/imgcook/imove
 
-## 办公/管理系统 a.k.a no-code
+## Office/Management System aka no-code
 
-* [黑帕云](https://hipacloud.com/)
-* [极星协作](https://app.bjx.cloud/template)
-* [维格表](https://vika.cn/)
-* [阿里云-Teambition](https://www.teambition.com/tour)
-* [阿里云-RPA](https://cn.aliyun.com/product/codestore)
+*[黑PA云](https://hipacloud.com/)
+* [Polestar Collaboration](https://app.bjx.cloud/template)
+* [Vika Table](https://vika.cn/)
+* [Alibaba Cloud-Teambition](https://www.teambition.com/tour)
+* [Alibaba Cloud-RPA](https://cn.aliyun.com/product/codestore)
 * [SeaTable](https://seatable.cn/)
-* [蒲公英-Tracup](https://www.tracup.com/)
-* [蒲公英-Seed](https://seed.pgyer.com/)
-* [伙伴云](https://www.huoban.com/)
+* [Dandelion-Tracup](https://www.tracup.com/)
+* [Dandelion-Seed](https://seed.pgyer.com/)
+*[Partner Cloud](https://www.huoban.com/)
 * [monday.com](https://monday.com/)
 * [Airtable](https://airtable.com/)
 * [Notion](https://www.notion.so/)
 * https://welovenocode.com/nocodelist
 * [Taskade](https://www.taskade.com/)
 
-## 声明式编程
+## Declarative programming
 
 * ["Probabilistic scripts for automating common-sense tasks" by Alexander Lew](https://www.youtube.com/watch?v=MiiWzJE0fEA)
 
-## 行业综述
+## Industry Overview
 
-* [Forrester《The State Of Low-Code Platforms In China》（中国低代码平台发展报告）](https://zhuanlan.zhihu.com/p/436106248)
-* [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
-* [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
-* [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
-* [对低代码、零代码产品的一些看法](https://zhuanlan.zhihu.com/p/156887528)
-* [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
-* [无代码编程](https://zhuanlan.zhihu.com/p/61288928)
-* [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
-* [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880)
-* [工程化之低代码体系](https://juejin.cn/post/6913698066935578631)
-* [LowCode平台前端实战之京东投放素材中心](https://zhuanlan.zhihu.com/p/386761240)
+* [Forrester "The State Of Low-Code Platforms In China" (China Low-Code Platform Development Report)](https://zhuanlan.zhihu.com/p/436106248)
+* [Intensive reading of "Understanding of Low-code Construction"](https://zhuanlan.zhihu.com/p/161783546)
+* [Page visualization building tool past and present](https://zhuanlan.zhihu.com/p/37171897)
+* [React.js visual editing tool](https://juejin.im/post/5d7ae944f265da03c5033e38)
+* [Some views on low-code, zero-code products](https://zhuanlan.zhihu.com/p/156887528)
+* [Product awareness of aPaaS](https://zhuanlan.zhihu.com/p/149801853)
+*[No-code programming](https://zhuanlan.zhihu.com/p/61288928)
+* [Coding of all things: Thoughts from low-code, cloud development to cloud R&D](https://zhuanlan.zhihu.com/p/141742525)
+* ["Let's talk about construction early" What have I gained from doing construction? ](https://juejin.im/post/6844904106767695880)
+* [Engineering low-code system](https://juejin.cn/post/6913698066935578631)
+* [LowCode platform front-end practical JD.com material delivery center](https://zhuanlan.zhihu.com/p/386761240)
 
-## 技术点
+## Technical points
 
-* 可逆计算
-  * [可逆计算：下一代软件构造理论](https://zhuanlan.zhihu.com/p/64004026)
-  * [从可逆计算看声明式编程](https://zhuanlan.zhihu.com/p/85492497)
-* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262)
-* [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
-* [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
-* [使用 React 写个简单的活动页面运营系统 - 设计篇](https://segmentfault.com/a/1190000004540256)
-* [【电商】用可视化编辑，解构看起来非常炫酷的专题页面](https://www.jianshu.com/p/c4359a7338d3)
-* [如何搭建一个功能复杂的前端配置化框架(一)](https://www.cnblogs.com/wukong-holmes/p/9287763.html)
-* [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
-* [可视化拖拽组件库一些技术要点原理分析（二）](https://juejin.cn/post/6918881497264947207)
-* [可视化拖拽组件库一些技术要点原理分析（三）](https://juejin.cn/post/6929302655118344200)
-* [可视化拖拽组件库一些技术要点原理分析（四）](https://juejin.cn/post/7129311619963682830)
-* [揭秘活字格最受程序员喜爱的三大功能背后的设计思路](https://www.grapecity.com.cn/blogs/huozige-the-three-most-popular-features-for-programmers)
+* Reversible calculation
+  * [Reversible Computing: Next Generation Software Construction Theory](https://zhuanlan.zhihu.com/p/64004026)
+  * [Looking at declarative programming from the perspective of reversible calculation](https://zhuanlan.zhihu.com/p/85492497)
+* [161. Intensive reading of "Thinking about Visual Construction - Rich Text Construction"](https://github.com/dt-fe/weekly/issues/262)
+* [Front-end architecture design for Model programming](https://zhuanlan.zhihu.com/p/144157268)
+* [Flowing data - using RxJS to construct data logic for complex single-page applications](https://github.com/xufei/blog/issues/38)
+* [Use React to write a simple event page operation system - Design](https://segmentfault.com/a/1190000004540256)
+* [[E-commerce] Use visual editing to deconstruct cool-looking special pages](https://www.jianshu.com/p/c4359a7338d3)
+* [How to build a front-end configuration framework with complex functions (1)](https://www.cnblogs.com/wukong-holmes/p/9287763.html)
+* [Analysis of some technical points and principles of the visual drag and drop component library](https://juejin.cn/post/6908502083075325959)
+* [Analysis of some technical points and principles of the visual drag-and-drop component library (2)](https://juejin.cn/post/6918881497264947207)
+* [Analysis of some technical points and principles of the visual drag-and-drop component library (3)](https://juejin.cn/post/6929302655118344200)
+* [Analysis of some technical points and principles of the visual drag-and-drop component library (4)](https://juejin.cn/post/7129311619963682830)
+* [Revealing the design ideas behind the three most popular features for programmers of GrapeCity](https://www.grapecity.com.cn/blogs/huozige-the-three-most-popular-features-for-programmers)
 
-## 国外
+## Abroad
 
 * https://www.honeycode.aws/
 * https://developers.google.com/appmaker
@@ -341,130 +341,130 @@
 * https://www.quickbase.com/
 * https://layoutit.com/
 * https://www.claris.com/zh/filemaker/
-* FoC 聊天记录：https://marianoguerra.github.io/future-of-coding-weekly/history/?fromDate=2017-06-13&toDate=2017-06-14&channel=general&filter=
+* FoC chat record: https://marianogerra.github.io/future-of-coding-weekly/history/?fromDate=2017-06-13&toDate=2017-06-14&channel=general&filter=
 * https://www.joget.com/
 * https://help.appsheet.com/en/
 * https://appery.io/
 * [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
-# 一切改进都是源自于人类的缺陷
+# All improvements come from human flaws
 
 ## How we think
 
-* 人脑是串行的，无法有效并行思考多条线索
-  * 人脑不适合思考并行执行的多线程
-    * 【单线程】把共享变量的编程模式改成事务整体提交的模式
-  * 人脑不适合思考同时呈现在屏幕上的多个独立的业务流程
-    * 代码是按发生时间组织的，在一起的代码未必是逻辑上有关联的业务流程
-      * 【按业务切分文件】阅读者应该可以按照自己的任务目标来跟踪索引，而不是默认一个按钮点击引起的处理逻辑都一定要写在一个大文件里
-      * 【按变更频率切分文件】业务变更是阅读的首要原因，代码应该按照业务变更的频率来组织。会同时变更的代码应该放在一起
-  * 人脑很难管理多份独立可变的状态，本质上每个独立变化的状态就是一个独立的线程
-    * 驱动状态数量熵增的三大因素：
-      * 因为交互体验的要求，从后端到富客户端到3d动画，状态被复制多份，越来越靠近展示层
-      * 因为硬件物理的约束，内存从CPU统一寻址，到异构计算，CUDA，每个硬件核都有一层自己的内存
-      * 因为数据量的增长，从统一的OLAP从库，到Data Lake，Data Mart，数据被复制成越来越多份，流水线越来越长
-    * 对抗状态数量熵增的手段：
-      * 【声明式数据联动】减少独立变化的状态，用表达式来表达 derived state
-      * 【全局虚拟数据层】借鉴Unix的统一文件抽象，引入一层统一的虚拟数据层。尽可能把状态转化成 cache
-  * 人脑很难理解新增对原有行为的剧烈变化，更习惯逐层稳定叠加。也就是人更希望“控制变量”
-    * css 最大的难度在于不正交，新增一条对规则会引起意想不到的效果
-      * 【局部化布局】swiftui 的 HStack/VStack/ZStack 布局规则数量少，每条规则作用都是局部的稳定的叠加
-    * 性能优化往往需要破坏局部性，因为局部的自治容易引起重复劳动
-      * 【局部化IO】系统自动实现 I/O 的批量等可以自动化做的全局优化
-      * 【局部化IO】业务写成自治的，但是可以附加额外的手工全局调优。而不是强制要求把业务逻辑从局部抽出去
+* The human brain is serial and cannot effectively think about multiple clues in parallel
+  * The human brain is not designed to think about multi-threading in parallel execution
+    * [Single thread] Change the programming mode of shared variables to the mode of overall transaction submission
+  * The human brain is not designed to think about multiple independent business processes presented on the screen at the same time
+    * The code is organized according to the time of occurrence, and the codes together may not be logically related business processes.
+      * [Split files by business] Readers should be able to track the index according to their own task goals, instead of defaulting that the processing logic caused by a button click must be written in a large file
+      * [Split files according to frequency of change] Business changes are the primary reason for reading, and the code should be organized according to the frequency of business changes. Code that changes at the same time should be kept together
+  * It is difficult for the human brain to manage multiple independent and variable states. Essentially, each independently changing state is an independent thread.
+    * Three major factors that drive the entropy increase in the number of states:
+      * Due to the requirements of interactive experience, from the backend to the rich client to 3D animation, the state is copied multiple times, getting closer and closer to the display layer
+      * Due to hardware physical constraints, memory has changed from unified addressing by CPU to heterogeneous computing and CUDA. Each hardware core has its own layer of memory.
+      * Due to the growth in data volume, from the unified OLAP slave database to Data Lake and Data Mart, data is copied into more and more copies, and the pipeline is getting longer and longer.
+    *Means to combat the entropy increase in the number of states:
+      * [Declarative data linkage] Reduce independently changing states and use expressions to express derived state
+      * [Global virtual data layer] Draw on the unified file abstraction of Unix and introduce a unified virtual data layer. Convert status into cache as much as possible
+  * It is difficult for the human brain to understand the drastic changes in the original behavior caused by new additions, and is more accustomed to stable stacking layer by layer. In other words, people prefer to “control variables”
+    * The biggest difficulty of CSS is that it is not orthogonal. Adding a pair of rules will cause unexpected effects.
+      * [Localized layout] Swiftui's HStack/VStack/ZStack layout rules have a small number of rules, and each rule functions as a local and stable superposition.
+    * Performance optimization often requires the destruction of locality, because local autonomy can easily lead to duplication of work
+      * [Localized IO] The system automatically realizes I/O batching and other global optimization that can be automated
+      * [Localized IO] The business is written to be autonomous, but additional manual global tuning can be added. Instead of forcing the business logic to be extracted from the local area
 
 ## How we perceive
 
-* 人眼只能在狭窄的感受野里获得信息
-  * 人对时间的感知是来自于对空间的感知
-  * 人希望在一个屏幕内从上往下的获取时间顺序上从早到晚的信息
-    * callback 的编程方式破坏了屏幕上的顺序和时间顺序的直接映射关系
-      * 【协程式IO】用协程取代 callback，把屏幕上的代码撸直
-    * 通过 status 字段驱动的业务状态机破坏了屏幕上的顺序和时间顺序的直接映射关系
-      * 【协程式业务流程】用协程取代 status 状态机，把屏幕上的代码撸直
-  * 因为感受野的限制，源代码没有空间展示所有的细节
-    * 类型定义，内存分配等“细节”占用了大量的视觉区域
-      * 【IDE细节隐藏】在文本上省略掉细节，由 IDE 进行补全，当鼠标移动上去的时候才展示出来
-    * 人最习惯的空间整理方式仍然是层状的文件夹
-      * 所有的“架构”设计，最终都是对文件夹和文件的设计。但是一个维度的静态索引（文件夹嵌套）无法满足所有可能的检索需求
-        * 【IDE按需索引】由 IDE 来补全文件夹分类不能满足的索引需求，针对阅读者的任务来设计IDE索引
-  * 视杆细胞容易忽略形状和顺序的差异，但是对颜色更敏感
-    * 语法高亮占用了宝贵的资源，但是并没有考虑阅读者的诉求
-      * 【IDE按需高亮】对于不同的任务，阅读者希望找到的重点是不同的，语法高亮应该结合任务来做
+* The human eye can only obtain information in a narrow receptive field
+  * Human perception of time comes from the perception of space
+  * People want to get information from morning to night in chronological order from top to bottom on a screen
+    * The programming method of callback destroys the direct mapping relationship between the order on the screen and the time order.
+      * [Coroutine IO] Replace callback with coroutine to straighten the code on the screen
+    * The business state machine driven by the status field destroys the direct mapping relationship between the order on the screen and the time order.
+      * [Coroutine Business Process] Use coroutines to replace the status state machine and straighten the code on the screen.
+  * Due to limitations of the receptive field, the source code does not have space to show all the details.
+    * "Details" such as type definitions and memory allocation occupy a large amount of visual area
+      * [IDE details hidden] Omit details in the text, complete them by the IDE, and display them when the mouse moves up.
+    * The most accustomed way of organizing space is still layered folders
+      * All "architecture" design is ultimately the design of folders and files. However, a static index of one dimension (nested folders) cannot satisfy all possible retrieval needs.
+        * [IDE on-demand indexing] The IDE completes the indexing needs that cannot be met by folder classification, and designs the IDE index based on the reader's tasks.
+  * Rod cells tend to ignore differences in shape and order, but are more sensitive to color
+    * Syntax highlighting takes up valuable resources, but does not consider the readers' demands.
+      * [IDE on-demand highlighting] For different tasks, readers hope to find different points, and syntax highlighting should be done in conjunction with the tasks.
 
 ## How we collaborate
 
-* 人与人之间最高效的沟通的方式是面对面的交互式声波震动
-  * 人类低下的沟通带宽根本上限制了一个团队的规模
-    * 上线速度要求越快越好，但是加人带来的边际效益递减
-      * 减少开会拉齐，团队应该尽可能地自治，而不是什么都要靠 feature team 横向拉通
-        * 高内聚，低耦合
-          * 【静态链接包】编程工具应该提供更多的组合可能，而不是所有的组合都要在运行时用面向对象的多态来实现
-          * 【按变更频率切分包】分工应该按照变更频率来确定，分工应该是明确的
-  * 尽可能由最终用户，或者靠近最终用户的团队来解决问题，而不是长距离传递需求
-    * 最终用户编程：直接让需求提出者自己来实现需求
-      * 把“学习”内置到工具里，需要内置一个教学工具
-        * 最终用户的编程工具开发难度高，成本高，投入超过了单个软件的回报
-          * 【编辑器预制】把“公式编辑”，“店铺装修”等常见共性需求提前预制
-      * 教学工具的目标是教学，而不是把自己标杆为更先进的生产力
-        * 【教学内置】提供教学模式和生产力模式的无缝切换
-    * 低代码编程：通过提前预制，把工作量前置，减少应用开发者的规模，从而可以在组织架构上把开发者内置到用户组织内部。与此相对应的是文档驱动的外包式开发。
-      * “预制”来自于对共性需求的提前预判
-        * 【非功能性需求云化】非功能性需求的实现，都是运行在相似的机器上
-          * 操作系统
+* The most efficient way of communication between people is face-to-face interactive sound wave vibration
+  * Humans’ low communication bandwidth fundamentally limits the size of a team
+    * The faster the online speed is required, the better, but the marginal benefits brought by adding people are diminishing
+      * Reduce meetings to coordinate, and the team should be as autonomous as possible instead of relying on the feature team to coordinate everything horizontally
+        * High cohesion, low coupling
+          * [Static link package] Programming tools should provide more combination possibilities, not all combinations must be implemented using object-oriented polymorphism at runtime
+          * [Separate subcontracting according to change frequency] The division of labor should be determined according to the frequency of change, and the division of labor should be clear
+  * As much as possible, the problem should be solved by the end user, or a team close to the end user, rather than transmitting requirements over long distances
+    * End-user programming: directly let the requester implement the request himself
+      * To build "learning" into a tool, a teaching tool needs to be built in
+        * End-user programming tools are difficult and costly to develop, and the investment exceeds the return on individual software
+          * [Editor Prefabrication] Prefab common needs such as "formula editing" and "store decoration" in advance
+      * The goal of teaching tools is teaching, not benchmarking yourself for more advanced productivity
+        * [Built-in teaching] Provides seamless switching between teaching mode and productivity mode
+    * Low-code programming: By prefabricating in advance, the workload is forwarded, reducing the scale of application developers, so that developers can be built into the user organization in terms of organizational structure. Corresponding to this is document-driven outsourced development.
+      * "Prefabrication" comes from the advance judgment of common needs
+        * [Non-functional requirements cloudification] The implementation of non-functional requirements are all run on similar machines
+          * operating system
           * k8s
-          * RPC 框架
-        * 开发者都是人类
-          * 编程工具
-          * 沟通工具
-        * 用户都是人类
-          * 【SaaS组件】IM / 电话 / 短信
-          * 【Ui组件】字处理器 / 表格
-          * 【CRUD生成】惯用的展现和交互
-            * 列表详情
-            * 树状层级
-            * 表格结构
-            * 可拖拽白板
-        * 【SaaS组件】相对稳定的业务流程
-          * 登录注册
-          * 支付
-        * 行业内相对稳定的业务共性流程
-          * 电商
-          * HR / 招聘
-          * 销售管理 / CRM
+          * RPC framework
+        * Developers are human
+          * Programming Tools
+          * Communication tools
+        * Users are all humans
+          *【SaaS Component】IM/Phone/SMS
+          * [Ui Component] Word Processor/Table
+          * [CRUD generation] Idiomatic presentation and interaction
+            * Listing details
+            *Tree level
+            * Table structure
+            * Drag-and-drop whiteboard
+        * [SaaS component] Relatively stable business process
+          * log in Register
+          * Pay
+        * Relatively stable common business processes in the industry
+          * E-commerce
+          *HR/Recruitment
+          * Sales Management/CRM
 
 ## How we learn
 
-* 人的“归纳/理解/学习”能力高度依赖于可视化交互式地操纵与反馈
-  * 帮助应该放在任务执行的地方，与其说“可视化”，不如说是“可发现”
-    * 【填空题变选择题】单独的语法手册是不好使的，必须提供界面上的按钮，把填空题变成选择题，这样才能启发学习
-      * GUI 设计器 / 店铺装修
-      * 公式编辑器
-      * 审批 / 工作流设计器
-      * trigger 流程设计器
-  * 人习惯于用手触碰一下对象，然后观测其反馈，从而归纳学习
-    * 不可观测的行为无法学习
-      * 生产环境的bug无法本地复现，我怎么找规律？
-        * 【TestInProduction】tracing，大量的 tracing，流量回放
-      * lowcode 平台的bug没有任何线索，除了找平台开发者，我能怎么办？
-        * 不能要求用户了解所有的内部细节，“平台”要做到可依赖
-        * 业务逻辑问题的定位和生产环境的bug定位一样，靠 tracing
-    * 反馈太慢的行为给人的负面感受是指数增加的
-      * 本地机器太慢了跑不起来，需要上公司的沙盒环境来复现问题
-        * 【云IDE】
-      * 改完了代码需要重新编译重新加载
-        * 【LanguageServer】交互式开发的时候跳过不必要的编译
-        * 【所见即所得】所见即所得的 GUI 开发，本质上就是用解释器执行，换取编译时间的缩减
-        * 【HMR】重加载的时候保持页面状态
+* Human’s ability to “summarize/understand/learn” is highly dependent on visual and interactive manipulation and feedback
+  * Help should be placed where the task is performed, rather than "visible", it should be said to be "discoverable"
+    * [Change fill-in-the-blank questions into multiple-choice questions] A separate grammar manual is not easy to use. You must provide buttons on the interface to turn fill-in-the-blank questions into multiple-choice questions, so as to inspire learning.
+      * GUI designer/shop decoration
+      * Formula editor
+      * Approval/workflow designer
+      * trigger process designer
+  * People are accustomed to touching objects with their hands and then observing their feedback, thereby inductively learning
+    * Unobservable behavior cannot be learned
+      * Bugs in the production environment cannot be reproduced locally. How can I find the pattern?
+        * 【TestInProduction】tracing, a large amount of tracing, traffic playback
+      * There is no clue about the bug in the lowcode platform. What can I do except contact the platform developer?
+        * Users cannot be required to understand all internal details, and the "platform" must be reliable
+        * The location of business logic problems is the same as the location of bugs in the production environment, relying on tracing
+    * The negative feelings given by behavior that is too slow to respond will increase exponentially
+      * The local machine is too slow to run. You need to use the company's sandbox environment to reproduce the problem.
+        *【Cloud IDE】
+      * After changing the code, you need to recompile and reload it.
+        * 【LanguageServer】Skip unnecessary compilation during interactive development
+        * [What you see is what you get] What you see is what you get GUI development is essentially to use an interpreter to execute in exchange for reducing compilation time
+        * [HMR] Maintain page status when reloading
 
 # no code / low code / pro code
 
-一切的改进都是源自于人类的缺陷
+All improvements come from human flaws
 
-* no code：自己编程给自己用，给用户的感觉是一个更强大的办公/实用软件。主要的手段是用图形化操作等方式降低学习曲线。no code 一定要面向非常固定的领域才能做到好用。
-* low code：编程给其他人用，为此创造了一个 citizen developer 的概念。主要的手段是平台预制好常见的需求，减少需要从头写的代码。low code 也要面向指定的领域才能让平台提前预测需求，但相比 no code 可以不把使用场景限定得那么死。
-* pro code：low code 的平台自己不会选择 low code 来创建这个平台本身，因为 low code 并没有降低从头构建一个系统的成本。但是 pro code 的平台自己会选择 pro code 来创建这个平台本身，比如 react 开发者会选择用 react 来创建自己的开发工具，因为 pro code 的工具和平台都是以从根本上降低从头构建一个系统的复杂度为目标的。
+* no code: Program it for your own use, giving users the feeling of a more powerful office/utility software. The main method is to use graphical operations and other methods to reduce the learning curve. No code must be oriented to a very fixed field to be useful.
+* low code: programming for other people to use, creating a concept of citizen developer for this purpose. The main method is to pre-prepare common requirements on the platform to reduce the need to write code from scratch. Low code also needs to be oriented to specified fields so that the platform can predict needs in advance, but compared to no code, the usage scenarios are not so strictly limited.
+* pro code: The low code platform itself will not choose low code to create the platform itself, because low code does not reduce the cost of building a system from scratch. But the pro code platform itself will choose pro code to create the platform itself. For example, react developers will choose to use react to create their own development tools, because pro code's tools and platforms are designed to fundamentally reduce the cost of building a system from scratch. Complexity is the goal.
 
-# RSS 订阅【今日阅读】
+# RSS Subscribe【Today's Reading】
 
 https://github.com/taowen/awesome-lowcode/commits.atom
